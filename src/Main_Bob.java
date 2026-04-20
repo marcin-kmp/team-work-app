@@ -4,5 +4,6 @@ public class Main_Bob {
         System.out.println("alice-d");
         System.out.println("alice-e");
         System.out.println("alice-f");
+        System.out.println("alice-g");
     }
 }
